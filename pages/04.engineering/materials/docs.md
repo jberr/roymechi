@@ -1,5 +1,6 @@
 ---
 title: Materials
+published: true
 ---
 
 This section includes information on engineering materials, including ferrous alloys and non-ferrous alloys.
